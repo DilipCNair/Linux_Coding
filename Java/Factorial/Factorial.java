@@ -9,7 +9,7 @@ public class Factorial
 	
 	public static int factorial(int n)
 	{		
-	   //Testing this code
+	   //Testing this code again
 		int result = 1;
 		for(int i = 2; i <= n; i++)
 			result *= i;
