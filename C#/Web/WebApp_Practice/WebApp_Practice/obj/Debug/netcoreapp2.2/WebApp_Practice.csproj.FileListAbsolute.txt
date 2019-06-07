@@ -1,0 +1,12 @@
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.dll.config
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.deps.json
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.runtimeconfig.json
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.runtimeconfig.dev.json
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.dll
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/bin/Debug/netcoreapp2.2/WebApp_Practice.pdb
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.csprojAssemblyReference.cache
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.csproj.CoreCompileInputs.cache
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.AssemblyInfoInputs.cache
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.AssemblyInfo.cs
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.dll
+/home/dilip/Coding/C#/Web/WebApp_Practice/WebApp_Practice/obj/Debug/netcoreapp2.2/WebApp_Practice.pdb
