@@ -1,40 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    layout_width="match_parent"
+    layout_height="match_parent"
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/ImageView_AndroidParty"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:contentDescription="Image Representing a Party"
-        android:scaleType="centerCrop"
-        android:src="@drawable/androidparty" />
+        id="@+id/ImageView_AndroidParty" layout_width="match_parent" layout_height="match_parent"
+        contentDescription="Image Representing a Party" scaleType="centerCrop" src="@drawable/androidparty" />
 
     <TextView
-        android:id="@+id/TextView_HBD"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="sans-serif-light"
-        android:padding="20sp"
-        android:text="Happy Birthday, Dilip!"
-        android:textColor="@android:color/white"
-        android:textSize="36sp" />
+        id="@+id/TextView_HBD" layout_width="match_parent" layout_height="wrap_content"
+        fontFamily="sans-serif-light" padding="20sp" text="Happy Birthday, Dilip!"
+        textColor="@android:color/white" textSize="36sp" />
 
     <TextView
-        android:id="@+id/TextView_MOM"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:fontFamily="sans-serif-light"
-        android:padding="20sp"
-        android:text="From, Mom!"
-        android:textColor="@android:color/white"
-        android:textSize="36sp" />
+        id="@+id/TextView_MOM" layout_width="wrap_content" layout_height="wrap_content"
+        layout_alignParentRight="true" layout_alignParentBottom="true" fontFamily="sans-serif-light"
+        padding="20sp" text="From, Mom!" textColor="@android:color/white" textSize="36sp" />
 
 
 </RelativeLayout>

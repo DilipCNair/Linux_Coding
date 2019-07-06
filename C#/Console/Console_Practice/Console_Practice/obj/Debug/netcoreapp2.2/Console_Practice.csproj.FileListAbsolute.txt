@@ -1,0 +1,11 @@
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/bin/Debug/netcoreapp2.2/Console_Practice.deps.json
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/bin/Debug/netcoreapp2.2/Console_Practice.runtimeconfig.json
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/bin/Debug/netcoreapp2.2/Console_Practice.runtimeconfig.dev.json
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/bin/Debug/netcoreapp2.2/Console_Practice.dll
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/bin/Debug/netcoreapp2.2/Console_Practice.pdb
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.csprojAssemblyReference.cache
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.csproj.CoreCompileInputs.cache
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.AssemblyInfoInputs.cache
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.AssemblyInfo.cs
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.dll
+/home/dilip/Coding/C#/Console/Console_Practice/Console_Practice/obj/Debug/netcoreapp2.2/Console_Practice.pdb
