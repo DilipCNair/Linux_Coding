@@ -20,5 +20,4 @@
         layout_alignParentRight="true" layout_alignParentBottom="true" fontFamily="sans-serif-light"
         padding="20sp" text="From, Mom!" textColor="@android:color/white" textSize="36sp" />
 
-
 </RelativeLayout>
