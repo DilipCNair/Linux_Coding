@@ -10,10 +10,10 @@ int main()
 	{
 		for (m = 0; m < 80; m++)
 			cout << "-";
-		cout << "\n\t\t\t\tPlayfair Cryptography\n\n";
+		cout << "\n\t\t\t\tPlayfair Cryptography\n";
 		for (m = 0; m < 80; m++)
 			cout << "-";
-		cout << "\n ***** Menu *****\n\n 1). Encryption\n\n 2). Decryption\n\n 3). Exit\n\n --> Enter your choice : ";
+		cout << "\n ***** Menu *****\n 1). Encryption\n 2). Decryption\n 3). Exit\n --> Enter your choice : ";
 		cin >> choice;
 		switch (choice)
 		{
