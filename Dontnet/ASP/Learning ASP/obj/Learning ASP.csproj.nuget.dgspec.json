@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dilip/Coding/Web/Dontnet/Learning ASP/Learning ASP.csproj": {}
+    "/home/dilip/Coding/Dontnet/ASP/Learning ASP/Learning ASP.csproj": {}
   },
   "projects": {
-    "/home/dilip/Coding/Web/Dontnet/Learning ASP/Learning ASP.csproj": {
+    "/home/dilip/Coding/Dontnet/ASP/Learning ASP/Learning ASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dilip/Coding/Web/Dontnet/Learning ASP/Learning ASP.csproj",
+        "projectUniqueName": "/home/dilip/Coding/Dontnet/ASP/Learning ASP/Learning ASP.csproj",
         "projectName": "Learning ASP",
-        "projectPath": "/home/dilip/Coding/Web/Dontnet/Learning ASP/Learning ASP.csproj",
+        "projectPath": "/home/dilip/Coding/Dontnet/ASP/Learning ASP/Learning ASP.csproj",
         "packagesPath": "/home/dilip/.nuget/packages/",
-        "outputPath": "/home/dilip/Coding/Web/Dontnet/Learning ASP/obj/",
+        "outputPath": "/home/dilip/Coding/Dontnet/ASP/Learning ASP/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
             }
           },
           "imports": [
