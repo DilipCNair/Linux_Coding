@@ -1,0 +1,13 @@
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console.deps.json
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console.runtimeconfig.json
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console.runtimeconfig.dev.json
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console.dll
+/home/dilip/Coding/Dontnet/Console/Learning Console/bin/Debug/netcoreapp3.1/Learning Console.pdb
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.csprojAssemblyReference.cache
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.csproj.CoreCompileInputs.cache
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.AssemblyInfoInputs.cache
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.AssemblyInfo.cs
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.dll
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.pdb
+/home/dilip/Coding/Dontnet/Console/Learning Console/obj/Debug/netcoreapp3.1/Learning Console.genruntimeconfig.cache

@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Learning_Console
 {
     class Program
