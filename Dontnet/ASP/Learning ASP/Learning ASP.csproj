@@ -5,4 +5,8 @@
     <RootNamespace>Learning_ASP</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.19" />
+  </ItemGroup>
+
 </Project>
