@@ -12,7 +12,8 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "setupCommands": [
+            "setupCommands": 
+            [
                 {
                     "description": "Enable pretty-printing for gdb",
                     "text": "-enable-pretty-printing",
@@ -45,14 +46,17 @@
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "requireExactSource": false,
-            "serverReadyAction": {
+            "serverReadyAction": 
+            {
                 "action": "openExternally",
                 "pattern": "^\\s*Now listening on:\\s+(https?://\\S+)"
             },
-            "env": {
+            "env": 
+            {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
-            "sourceFileMap": {
+            "sourceFileMap": 
+            {
                 "/Views": "${workspaceFolder}/Views"
 
             }
