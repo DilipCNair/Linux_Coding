@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-    //Checking 1
-    cout << "Hello, World!\n";
-    //Checking 2
+    cout << "\nHello World!\n";
     return 0;
 }
