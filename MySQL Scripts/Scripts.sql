@@ -8,14 +8,19 @@ FLUSH PRIVILEGES;
 SELECT User, Host, plugin FROM mysql.user;
 ALTER USER 'YOUR_SYSTEM_USER'@'localhost' IDENTIFIED WITH mysql_native_password BY 'new-password';
 
+
+
 CREATE DATABASE dotnet;
+DROP DATABASE dotnet;
 SHOW DATABASES;
 Use dotnet;
 
 
 
 CREATE TABLE pet (name VARCHAR(20), owner VARCHAR(20),species VARCHAR(20), sex CHAR(1), birth DATE, death DATE);
+DROP TABLE pet;
 SHOW TABLES;
 DESCRIBE pet;
-INSERT INTO pet VALUES ('Puffball','Diane','hamster','f','1999-03-30',NULL);
+INSERT INTO pet VALUES ('Puffball3','Diane','hamster','f','1999-03-30',NULL);
 SELECT * FROM pet;
+SELECT species, owner FROM pet WHERE name='Puffball3'; 
