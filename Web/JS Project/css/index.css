@@ -1,1 +1,16 @@
-p{color: blue}
+
+
+body
+{
+    background-color: aqua;
+}
+
+h1
+{
+  margin: 5cm;
+}
+
+p
+{
+    color: rgb(0, 0, 255)   
+}
