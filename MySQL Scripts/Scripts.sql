@@ -1,4 +1,8 @@
 
+/*
+Current account is root and password is Dilip@1692
+*/
+
 Use mysql;
 CREATE USER 'YOUR_SYSTEM_USER'@'localhost' IDENTIFIED BY 'new-password';
 UPDATE user SET plugin='mysql_native_password' WHERE User='YOUR_SYSTEM_USER';
@@ -24,3 +28,5 @@ DESCRIBE pet;
 INSERT INTO pet VALUES ('Puffball3','Diane','hamster','f','1999-03-30',NULL);
 SELECT * FROM pet;
 SELECT species, owner FROM pet WHERE name='Puffball3'; 
+
+
