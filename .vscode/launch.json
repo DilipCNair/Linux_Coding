@@ -41,7 +41,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Dotnet/ASP/Learning_ASP/bin/Debug/netcoreapp3.1/Learning_ASP.dll",
+            "program": "${workspaceFolder}/Dotnet/Web/Learning_ASP/bin/Debug/netcoreapp3.1/Learning_ASP.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,

@@ -6460,11 +6460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dilip/Coding/Dotnet/ASP/Learning_ASP/Learning_ASP.csproj",
+      "projectUniqueName": "/home/dilip/Coding/Dotnet/Web/Learning_ASP/Learning_ASP.csproj",
       "projectName": "Learning_ASP",
-      "projectPath": "/home/dilip/Coding/Dotnet/ASP/Learning_ASP/Learning_ASP.csproj",
+      "projectPath": "/home/dilip/Coding/Dotnet/Web/Learning_ASP/Learning_ASP.csproj",
       "packagesPath": "/home/dilip/.nuget/packages/",
-      "outputPath": "/home/dilip/Coding/Dotnet/ASP/Learning_ASP/obj/",
+      "outputPath": "/home/dilip/Coding/Dotnet/Web/Learning_ASP/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
