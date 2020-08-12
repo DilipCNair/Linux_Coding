@@ -2,8 +2,8 @@
 /*
 mysql runs at 127.0.0.1:3306 by default
 service mysql status/start/stop/restart are basic commands
-mysql -u root -p and enter password to enter mysql shell
-Current account is root and password is Dilip@1692
+current admin account username is "root" and password is "Dilip@1692"
+mysql -u root -p and enter password to start mysql shell
 */
 
 Use mysql;
