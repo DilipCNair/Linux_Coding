@@ -1,0 +1,13 @@
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF.deps.json
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF.runtimeconfig.json
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF.runtimeconfig.dev.json
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF.dll
+/home/dilip/Coding/Dotnet/Console/Learning_EF/bin/Debug/netcoreapp3.1/Learning_EF.pdb
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.csprojAssemblyReference.cache
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.AssemblyInfoInputs.cache
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.AssemblyInfo.cs
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.csproj.CoreCompileInputs.cache
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.dll
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.pdb
+/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/Debug/netcoreapp3.1/Learning_EF.genruntimeconfig.cache

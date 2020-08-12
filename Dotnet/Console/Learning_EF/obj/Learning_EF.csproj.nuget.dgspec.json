@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dilip/Coding/Dotnet/Console/Learning_Console/Learning_Console.csproj": {}
+    "/home/dilip/Coding/Dotnet/Console/Learning_EF/Learning_EF.csproj": {}
   },
   "projects": {
-    "/home/dilip/Coding/Dotnet/Console/Learning_Console/Learning_Console.csproj": {
+    "/home/dilip/Coding/Dotnet/Console/Learning_EF/Learning_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dilip/Coding/Dotnet/Console/Learning_Console/Learning_Console.csproj",
-        "projectName": "Learning_Console",
-        "projectPath": "/home/dilip/Coding/Dotnet/Console/Learning_Console/Learning_Console.csproj",
+        "projectUniqueName": "/home/dilip/Coding/Dotnet/Console/Learning_EF/Learning_EF.csproj",
+        "projectName": "Learning_EF",
+        "projectPath": "/home/dilip/Coding/Dotnet/Console/Learning_EF/Learning_EF.csproj",
         "packagesPath": "/home/dilip/.nuget/packages/",
-        "outputPath": "/home/dilip/Coding/Dotnet/Console/Learning_Console/obj/",
+        "outputPath": "/home/dilip/Coding/Dotnet/Console/Learning_EF/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

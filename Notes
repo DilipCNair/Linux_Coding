@@ -1,3 +1,10 @@
-dotnet new and dotnet run important commands
+dotnet new and dotnet run are important commands
 
 attach a debugger to the project using add configuration in debugger menu
+
+mysql runs at 127.0.0.1:3306
+service mysql start/status/stop/restart
+mysql -u root -p
+mysql workbench is also installed
+
+netstat -tnlp and netstat -pnltu to view services running
