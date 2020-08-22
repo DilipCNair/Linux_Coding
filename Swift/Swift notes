@@ -1,0 +1,10 @@
+swift --version
+swift for REPL (Read Evaluate Print Loop)
+swiftc filename.swift to compile directly and ./filename to execute the file
+
+swift package init --type executable to create a new swift project
+swift build to build the project
+swift run to build and run the project 
+swift run "projectname" to build and run the project
+swift test to test the project
+
