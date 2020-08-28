@@ -1,0 +1,15 @@
+sudo gedit /etc/hosts
+
+LAMP web service stack fully open source
+ L - Linux operating system
+ A - Apache HTTP Server 
+ M - MySQL relational database management system (RDBMS)
+ P - PHP programming language
+
+WAMP
+ W - Windows
+ rest is same
+
+MAMP 
+ M - macOS
+ rest is same 
