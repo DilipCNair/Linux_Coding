@@ -8,3 +8,12 @@ mysql -u root -p
 mysql workbench is also installed
 
 netstat -tnlp and netstat -pnltu to view services running
+
+Delegates
+Anonymous methods
+Lamda expressions
+Function delegate
+Action delegate
+Predicate delegate
+Expression trees
+LINQ
