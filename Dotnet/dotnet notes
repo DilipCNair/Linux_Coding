@@ -9,11 +9,15 @@ mysql workbench is also installed
 
 netstat -tnlp and netstat -pnltu to view services running
 
-Delegates
-Anonymous methods
-Lamda expressions
-Function delegate
-Action delegate
-Predicate delegate
-Expression trees
-LINQ
+Delegates - Function Pointers
+Anonymous Methods - Methods with no name
+Lamda Expressions - Short form for Anonymous methods
+Genereic Delegates - Readymade Delegates
+Function Delegates - Any parameter type and return type
+Action Delegates - Any parameter type but no return type
+Predicate Delegates - Any parameter type but return type always bool
+LINQ - Language Integrated Querry
+Expression Trees - Constructing trees from mathematical expressions to calculate 
+                   easily
+Extension Methods - Adding your methods to existing types/class without actually 
+                    changing the type/class
