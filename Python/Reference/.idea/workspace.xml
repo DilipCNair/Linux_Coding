@@ -74,16 +74,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8b6c487-063b-49f9-be60-29bd01d4d8cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console/Basic Program/BasicProgram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Console/HelloWorld/HelloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/Pycharm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pycharm/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +176,21 @@
       <option name="presentableId" value="Default" />
       <updated>1601646247127</updated>
     </task>
+    <task id="LOCAL-00001" summary="Over">
+      <created>1601646530919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601646530920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Over">
+      <created>1601646608753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601646608753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,16 +203,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Over" />
+    <option name="LAST_COMMIT_MESSAGE" value="Over" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601646388070">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="414" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1601646388070" />
+    <state width="1892" height="259" key="GridCell.Tab.0.bottom" timestamp="1601646468182">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="259" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1601646468182" />
+    <state width="1892" height="259" key="GridCell.Tab.0.center" timestamp="1601646468181">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="259" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1601646468181" />
+    <state width="1892" height="259" key="GridCell.Tab.0.left" timestamp="1601646468181">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="259" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1601646468181" />
+    <state width="1892" height="259" key="GridCell.Tab.0.right" timestamp="1601646468181">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="259" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1601646468181" />
+    <state x="455" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1601646610617">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="455" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1601646610617" />
   </component>
 </project>
