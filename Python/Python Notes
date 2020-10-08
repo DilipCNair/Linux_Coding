@@ -1,0 +1,4 @@
+Sudo apt install python3-pip
+
+pip install <package-name> - For python 2
+pip3 install <package name> - For python 3
