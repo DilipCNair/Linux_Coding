@@ -3,6 +3,6 @@ To get input import java.util.*  where Scanner class is there
 .* to import all package members
 In java you can import a specific class or the entire package
 When importing package subpackges are not imported
-When importing specific class the compilor doesnt need to check the entire namespace
- for the class
+When importing specific class instead of entire package the compiler doesn't need to check
+ the entire pacakge for the class
 Extends means inheritance
