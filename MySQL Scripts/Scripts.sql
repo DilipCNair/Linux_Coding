@@ -14,11 +14,11 @@ auth_socket plugin needs to be changed for normal login - research on that
 
 Use mysql;
 SELECT User, Host, plugin FROM mysql.user;
-UPDATE user SET plugin='mysql_native_password' WHERE User='YOUR_SYSTEM_USER';
-UPDATE user SET plugin='auth_socket' WHERE User='YOUR_SYSTEM_USER';
-ALTER USER 'YOUR_SYSTEM_USER'@'localhost' IDENTIFIED WITH mysql_native_password BY 'new-password';
-CREATE USER 'YOUR_SYSTEM_USER'@'localhost' IDENTIFIED BY 'new-password';
-GRANT ALL PRIVILEGES ON *.* TO 'YOUR_SYSTEM_USER'@'localhost';                                                    
+UPDATE user SET plugin='mysql_native_password' WHERE User='root';
+UPDATE user SET plugin='auth_socket' WHERE User='root';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'new-password';
+CREATE USER 'root'@'localhost' IDENTIFIED BY 'new-password';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost';                                                    
 FLUSH PRIVILEGES;
 
 
