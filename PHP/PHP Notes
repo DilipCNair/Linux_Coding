@@ -13,3 +13,8 @@ WAMP
 MAMP 
  M - macOS
  rest is same 
+
+ /var/www/html/ - All your public html docs
+ /usr/share/ - All you web applications
+ /etc/phpmyadmin - Configuration file for phpmyadmin
+ /etc/apache2 - Configuration for apache2
