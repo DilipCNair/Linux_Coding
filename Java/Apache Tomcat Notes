@@ -7,3 +7,7 @@
 3. Start tomcat - name of tomcat service is "tomcat9"
   sudo systemctl start|restart|status|enable|disable tomcat9
   sudo service tomcat9 start|restart|status
+
+4. Check tomcat9 - netstat -tnlp
+   http://127.0.0.1:8080 or http://localhost:8080
+   https connection fails
