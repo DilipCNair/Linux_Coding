@@ -11,3 +11,11 @@
 4. Check tomcat9 - netstat -tnlp
    http://127.0.0.1:8080 or http://localhost:8080
    https connection fails
+
+5. Apache Tomcat links
+  Index - /var/lib/tomcat9/webapps/ROOT/index.html
+  Home - /usr/share/tomcat9
+  Base - /var/lib/tomcat9
+  Rules - /usr/share/doc/tomcat9-common/RUNNING.txt.gz
+  Users - /etc/tomcat9/tomcat-users.xml
+  Configuration - /var/lib/tocat9/conf
