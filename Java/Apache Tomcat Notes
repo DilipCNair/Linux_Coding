@@ -1,0 +1,9 @@
+1. To install tomcat from ubuntu repo
+  sudo apt install tomcat9 tomcat9-admin
+
+2. Adding firewall rules
+  sudo ufw allow from any to any port 8080 proto tcp
+
+3. Start tomcat - name of tomcat service is "tomcat9"
+  sudo systemctl start|restart|status|enable|disable tomcat9
+  sudo service tomcat9 start|restart|status
