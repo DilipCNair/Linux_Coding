@@ -19,3 +19,5 @@
   Rules - /usr/share/doc/tomcat9-common/RUNNING.txt.gz
   Users - /etc/tomcat9/tomcat-users.xml
   Configuration - /var/lib/tocat9/conf
+
+  sudo chmod -R 777 /var/lib/tomcat9/conf
