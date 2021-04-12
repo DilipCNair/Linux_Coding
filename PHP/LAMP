@@ -1,0 +1,62 @@
+ L - Linux
+   Ubuntu is a Linux OS
+   
+2. A - Apache Web Server
+   sudo apt install apache2
+   service apache2 start
+   it will be running on port 80
+   default document root /var/www/html/
+   configuration files /etc/apache2/
+
+3. M - Mysql Server
+   sudo apt install mysql-server
+   It will also install mysql client
+   service mysql start
+   default port 3306
+   sudo mysql_secure_installation - this script doesn't change the root password.
+   Since root uses auth_socket plugin, login the first time using sudo mysql command and then change root password using
+   ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Mysql@1692';
+   flush privileges;
+   To create new USER type -
+   CREATE USER 'dilip'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Dilip@1692';
+   GRANT ALL PRIVILEGES ON *.* TO 'dilip'@'localhost' IDENTIFIED BY 'Dilip@1692';
+   show databases;use database; show tables; describe <table_name>; select * from <table_name>;
+   
+4. P - PHP or Perl
+   sudo apt install php libapache2-mod-php;
+   default directory of apache web applications - /var/www/html/
+   you can create sample php and html files here.
+
+5. Optional 
+   phpmyadmin - A GUI based web application which serves as mysql-client
+   sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+   username - phpmyadmin, password - Phpmd@1692
+   sudo vim /etc/apache2/apache2.conf
+   Include /etc/phpmyadmin/apache.conf
+   and restart apache2
+   http://<ip_address>/phpmyadmin
+
+6. Optional
+   DVWA - Dam Vulnerable Web Application
+   go to location /var/www/html/ and type git clone https://github.com/digininja/DVWA.git
+   chmod 777 -R DVWA
+   cp /var/www/html/config/config.inc.php.dist /var/www/html/config/config.inc.php to setup configuration file
+   nano /var/www/html/DVWA/config/config.inc.php and setup database connection string
+   create a database and a user in mysql for DVWA
+   CREATE DATABASE dvwa_db;
+   CREATE USER 'dvwa'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Dvwa@1692';
+   GRANT ALL PRIVILEGES ON dvwa_db.* TO 'dvwa'@'localhost' WITH GRANT OPTION;
+   sudo vim /etc/php/7.4/apache2/php.ini
+   allow_url_include = on
+   allow_url_fopen = on
+   restart apache2 service
+
+7. Optional 
+   Wordpress setup
+   Download the wordpress from the official wordpress.org website and put in in document root and give permissions and load it
+   run the setup
+   Mysql - username : wp_user
+   mysql - password : Password@1692
+
+   wordpress username - dilip
+   wordpress password - PxrFLU7suOmLNu4j#P
